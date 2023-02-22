@@ -5,7 +5,10 @@ import './Footer.css'
 export default (props) => {
     return (
         <footer className="footer">
-            Rodapé
+            <span>
+                Desenvolvido com <i className="fa fa-heart text-danger"></i> por 
+                <strong> Kaian</strong>
+            </span>
         </footer>
     )
 }
