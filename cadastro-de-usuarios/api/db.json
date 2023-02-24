@@ -2,18 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Kaian Lemos",
+      "name": "Kaian Lemos ",
       "email": "klemos@empresa.com"
     },
     {
-      "id": 2,
-      "name": "Maria Eduarda",
-      "email": "meduarda@empresa.com"
-    },
-    {
-      "name": "Kaian Lemos",
-      "email": "kaianlemosf@hotmail.com",
-      "id": 3
+      "name": "Teste Usuario",
+      "email": "testeusuario@teste.com",
+      "id": 2
     }
   ]
 }
