@@ -116,7 +116,6 @@ export default class UserCrud extends Component {
             <table className="table mt-4">
                 <thead>
                     <tr>
-                        <th>Id</th>
                         <th>Nome</th>
                         <th>E-mail</th>
                         <th>Ações</th>
